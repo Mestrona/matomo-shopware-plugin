@@ -1,0 +1,7 @@
+{
+    "matomo": {
+        "cookie": {
+            "name": "Matomo-Analytics"
+        }
+    }
+}
